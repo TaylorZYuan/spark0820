@@ -1,0 +1,5 @@
+wordcount
+rdd
+sql
+streaming
+core
